@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Maratik555/movieReactApp/static/css/main.f7efafa6.css",
-    "main.js": "/Maratik555/movieReactApp/static/js/main.dd7d455e.js",
-    "index.html": "/Maratik555/movieReactApp/index.html",
-    "main.f7efafa6.css.map": "/Maratik555/movieReactApp/static/css/main.f7efafa6.css.map",
-    "main.dd7d455e.js.map": "/Maratik555/movieReactApp/static/js/main.dd7d455e.js.map"
+    "main.css": "/movieReactApp/static/css/main.cf4153dc.css",
+    "main.js": "/movieReactApp/static/js/main.a2aea83a.js",
+    "index.html": "/movieReactApp/index.html",
+    "main.cf4153dc.css.map": "/movieReactApp/static/css/main.cf4153dc.css.map",
+    "main.a2aea83a.js.map": "/movieReactApp/static/js/main.a2aea83a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7efafa6.css",
-    "static/js/main.dd7d455e.js"
+    "static/css/main.cf4153dc.css",
+    "static/js/main.a2aea83a.js"
   ]
 }
